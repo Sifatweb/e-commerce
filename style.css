@@ -1,0 +1,39 @@
+.big-text{
+    font-size: 52px;
+    margin: 20px 0;
+    color: darkorange;
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom, #FF5898 0%, #FF136F 100%);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.popular{
+    margin: 10px;
+    text-align: center;
+}
+.third{
+    margin-top: 10px;
+}
+.fourth{
+    margin-top: 15px;
+}
+.fifth{
+    margin-top: 15px;
+}
+.last{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+footer{
+    background-color: rgb(2, 2, 56);
+    height: 90px;
+    margin-bottom: 10px;
+}
+.nai{
+    text-align: center;
+    color: white;
+}
